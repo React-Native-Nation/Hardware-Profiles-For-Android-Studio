@@ -32,8 +32,7 @@ The hardware profile defines the characteristics of a device as shipped from the
 
 # Hardware Devices
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
+| Device | Inch | Dimensions |
 | --------------- | --------------- | --------------- |
 | GALAXY A10s | 6.2 | 720x1520.xml |
 | NEXUS S | 4.0 | 480X800.xml |
