@@ -34,11 +34,7 @@ The hardware profile defines the characteristics of a device as shipped from the
 
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-
-| :---: | :---: | :---: |
+| --------------- | --------------- | --------------- |
 | GALAXY A10s | 6.2 | 720x1520.xml |
 | NEXUS S | 4.0 | 480X800.xml |
 | Y9 Prime | 6.59 | 2340x1080.xml |
