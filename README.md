@@ -31,6 +31,7 @@ The hardware profile defines the characteristics of a device as shipped from the
 <a name="hardwaredevices"></a>
 
 # Hardware Devices
+
 | :---: | :---: | :---: |
 | GALAXY A10s | 6.2 | 720x1520.xml |
 | NEXUS S | 4.0 | 480X800.xml |
