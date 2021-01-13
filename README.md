@@ -22,25 +22,26 @@ The hardware profile defines the characteristics of a device as shipped from the
 <a name="howtoinstall"></a>
 
 ## How to install
-1. Open Android Studio
-2. Go to Select Tools > AVD Manager.
-3. Click Import Hardware Profiles and select all the XML files.
-4. For Each hardware create a new image (don't change anything just click next and complete the image).
+1. Copy skins FIRST (or won't work), locate your sdk path and copy the skins folder into it. eg: `cp -R skins/ /Users/XXX/Library/Android/sdk/skins/`
+2. Open Android Studio
+3. Go to Select Tools > AVD Manager.
+4. Click Import Hardware Profiles and select all the XML files.
+5. For Each hardware create a new image (don't change anything just click next and complete the image).
  
 <a name="hardwaredevices"></a>
 
 # Hardware Devices
-| GALAXY A10s | 6.2 | 720x1520.xml |
-| NEXUS S | 4.0 | 480X800.xml |
-| Y9 Prime | 6.59 | 2340x1080.xml |
-| GALAXY A21 | 6.5 | 720x1600.xml | 
-| PIXEL 2 | 5 | 1080X1920.xml |
-| GALAXY A51 | 6.5 | 1080x2400.xml | 
-| PIXEL 3 XL | 6.3 | 1440X2960.xml |
-| GALAXY NEXUS | 4.65 | 720X1280.xml |
-| PIXEL 3A XL | 6 | 1080X2160.xml |
-| HVGA slider | 3.2 | 320X480.xml | 
-| WQVGA | 3.4 | 240x432.xml |
+| GALAXY A10s | 6.2 | 720x1520.xml 
+| NEXUS S | 4.0 | 480X800.xml 
+| Y9 Prime | 6.59 | 2340x1080.xml 
+| GALAXY A21 | 6.5 | 720x1600.xml 
+| PIXEL 2 | 5 | 1080X1920.xml 
+| GALAXY A51 | 6.5 | 1080x2400.xml 
+| PIXEL 3 XL | 6.3 | 1440X2960.xml 
+| GALAXY NEXUS | 4.65 | 720X1280.xml 
+| PIXEL 3A XL | 6 | 1080X2160.xml 
+| HVGA slider | 3.2 | 320X480.xml  
+| WQVGA | 3.4 | 240x432.xml 
 
 <a name="community"></a>
 ## Community profile
